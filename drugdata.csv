@@ -1,0 +1,511 @@
+family live,gender,age,address,profession,distance,efficiency,stress,economic,addictedhome,trauma,relation,alone,care,lostjob,sexual,interest,sleep,outsidenight,weight,solution,addictedfriend,reason,addicted
+yes,male,21,dhaka,student,no,satisfactory,good,upper middle,no,no,no,no,10,yes,no,confused,yes,no,no,yes,yes,mind,yes
+yes,male,26,dhaka,student,no,good,good,upper middle,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,male,21,dhaka,student,no,satisfactory,average,lower middle,yes,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,dhaka,student,no,satisfactory,average,lower,yes,no,yes,yes,10,no,no,confused,yes,no,yes,no,no,none,no
+yes,male,21,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,9,no,no,no,no,no,no,no,no,none,no
+yes,male,26,dhaka,student,no,good,good,upper middle,no,yes,yes,no,5,no,no,no,yes,yes,no,no,no,mind,yes
+yes,male,26,dhaka,student,no,excellent,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,male,21,dhaka,student,no,good,average,lower middle,no,no,no,no,10,no,no,no,no,yes,no,no,no,none,no
+no,male,21,khulna,student,no,excellent,good,upper middle,no,no,no,no,1,no,no,confused,no,yes,yes,no,no,mind,yes
+yes,male,21,dhaka,student,no,unsatisfactory,average,lower middle,no,no,no,confused,8,no,no,confused,no,no,no,no,no,none,no
+yes,male,21,dhaka,student,yes,unsatisfactory,average,lower,no,yes,no,confused,1,no,no,no,yes,no,yes,no,no,none,no
+no,male,21,rangpur,student,no,satisfactory,average,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,dhaka,student,no,not sure,not sure,upper middle,no,no,yes,confused,3,yes,no,no,no,no,no,no,no,mind,yes
+no,male,21,rangpur,student,no,not sure,bad,lower middle,no,yes,yes,no,1,yes,no,no,yes,yes,yes,no,no,mind,yes
+no,male,21,dhaka,student,no,satisfactory,good,lower,yes,yes,yes,no,7,no,no,no,no,no,yes,no,no,none,no
+no,male,21,dhaka,student,no,satisfactory,good,lower,yes,yes,yes,no,7,no,no,no,no,no,yes,no,no,none,no
+no,male,21,dhaka,student,no,satisfactory,good,lower,yes,yes,yes,no,7,no,no,no,no,no,yes,no,no,none,no
+no,male,21,dhaka,student,no,satisfactory,good,lower,yes,yes,yes,no,7,no,no,no,no,no,yes,no,no,none,no
+yes,male,26,dhaka,business,no,excellent,good,upper,no,yes,yes,no,8,no,no,no,no,yes,no,no,yes,mind,yes
+yes,male,26,dhaka,student,no,satisfactory,good,lower middle,no,yes,no,yes,5,no,no,yes,no,no,no,no,no,friend,yes
+yes,female,21,mirpur,student,no,satisfactory,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,none,no
+yes,male,26,mirpur,student,yes,unsatisfactory,good,lower,no,no,yes,yes,1,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+no,male,21,dhanmondi,student,no,satisfactory,average,upper middle,no,no,yes,no,6,no,no,yes,no,no,no,no,no,none,no
+yes,male,21,dhaka,student,no,good,average,upper middle,no,yes,confused,no,10,no,no,no,yes,no,no,yes,no,friend,yes
+no,male,21,dhaka,student,no,satisfactory,good,lower middle,no,yes,no,yes,10,no,no,no,yes,no,no,no,no,none,no
+no,male,21,dhaka,student,no,good,good,upper middle,no,yes,no,no,10,no,no,no,yes,yes,no,no,no,none,no
+no,female,21,khulna,student,yes,satisfactory,good,upper middle,yes,no,confused,no,6,no,no,no,yes,no,no,no,no,none,no
+no,female,21,khulna,student,yes,good,average,upper middle,no,no,no,no,7,no,no,yes,no,no,yes,no,no,none,no
+yes,male,21,dhaka,student,yes,satisfactory,average,lower middle,no,no,confused,yes,5,no,no,no,yes,no,no,no,no,friend,yes
+yes,male,25,dhaka,business,no,excellent,good,upper middle,no,no,yes,no,8,no,no,confused,yes,no,no,no,no,none,no
+yes,prefer not to say,21,khulna,student,no,satisfactory,average,lower middle,no,no,no,yes,10,no,no,no,no,no,no,no,no,none,no
+no,male,21,dhaka,student,no,good,good,upper middle,no,yes,confused,no,6,no,no,no,no,no,no,no,no,none,no
+no,female,21,dhaka,student,no,good,good,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,none,no
+yes,male,21,dhaka,student,no,excellent,good,upper middle,no,no,no,no,9,no,no,no,no,no,no,no,no,none,no
+yes,male,21,khulna,student,no,excellent,good,upper middle,no,yes,no,no,2,no,no,no,yes,no,no,yes,no,none,no
+yes,male,21,dhaka,student,no,good,good,upper middle,no,no,yes,yes,6,no,no,no,yes,no,no,no,no,none,no
+yes,male,21,dhaka,student,no,satisfactory,average,upper middle,no,no,yes,no,8,no,no,no,no,no,no,no,no,mind,yes
+yes,male,21,dhaka,student,no,good,good,lower middle,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+no,female,21,dhaka,student,no,good,good,upper middle,no,no,no,no,5,no,no,no,no,no,yes,no,no,none,no
+yes,male,21,dhaka,student,no,not sure,average,lower middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,dhaka,student,yes,unsatisfactory,bad,lower middle,no,yes,yes,yes,10,no,no,yes,no,no,yes,no,no,friend,yes
+yes,male,21,barishal,student,no,excellent,good,upper,no,no,no,no,10,no,no,no,no,yes,no,yes,no,friend,yes
+no,male,26,uttara,student,yes,poor,not sure,lower middle,yes,yes,yes,yes,3,yes,no,yes,yes,yes,no,yes,no,friend,yes
+yes,male,26,dhaka,student,no,good,good,lower middle,no,yes,yes,no,8,no,no,confused,no,no,yes,no,no,none,no
+yes,male,21,gazipur,student,no,good,average,upper middle,no,no,no,no,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,rajshahi,student,no,good,good,lower middle,no,no,no,confused,6,no,no,no,yes,no,no,no,no,none,no
+no,male,21,sylhet,student,no,excellent,average,upper middle,no,no,confused,no,8,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,average,lower middle,no,yes,yes,yes,8,no,no,no,no,yes,no,no,no,mind,yes
+no,male,26,sylhet,student,no,satisfactory,average,upper middle,no,yes,yes,yes,5,no,no,yes,no,no,no,no,no,none,no
+no,male,21,sherpur,student,no,unsatisfactory,bad,upper middle,no,no,no,no,5,no,yes,no,no,no,no,no,no,none,no
+no,female,21,sylhet,student,no,good,good,upper middle,no,no,no,yes,10,no,no,no,yes,no,no,no,no,none,no
+yes,female,21,moulvibazar,student,no,unsatisfactory,average,lower middle,no,no,confused,confused,3,no,no,confused,no,no,no,no,no,none,no
+yes,female,21,sylhet,student,no,unsatisfactory,average,lower middle,no,no,no,no,7,no,no,no,no,no,no,no,no,none,no
+yes,male,26,sylhet,student,no,excellent,good,lower middle,no,no,no,no,10,no,no,no,no,yes,no,no,no,mind,yes
+yes,male,21,sylhet,student,no,good,good,lower middle,no,no,no,yes,9,no,no,no,yes,no,no,no,no,mind,yes
+yes,male,21,dhaka,student,yes,satisfactory,average,lower middle,no,yes,no,no,5,no,no,no,no,yes,no,no,no,mind,yes
+yes,male,21,dhaka,student,no,satisfactory,good,upper middle,no,no,confused,no,10,no,no,no,yes,yes,no,no,no,mind,yes
+yes,female,21,dhaka,student,no,satisfactory,bad,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,upper middle,no,no,no,no,6,no,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,26,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,8,no,no,no,yes,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,excellent,good,upper middle,no,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,16,sylhet,student,no,good,good,lower middle,no,no,no,no,5,no,no,no,yes,yes,no,no,no,none,no
+no,male,21,sylhet,student,no,not sure,bad,lower middle,no,no,no,no,5,no,no,yes,no,no,yes,no,no,none,no
+no,male,26,sylhet,student,no,good,good,lower middle,no,yes,yes,no,7,no,no,yes,no,no,no,no,yes,friend,yes
+yes,male,21,sylhet,student,no,good,average,lower middle,no,yes,no,yes,4,no,no,yes,yes,no,no,no,no,none,no
+no,male,21,sylhet,student,yes,good,average,lower middle,no,no,no,no,7,no,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,not sure,average,lower middle,no,yes,yes,yes,8,no,no,yes,no,no,no,no,no,none,no
+no,male,21,comilla,student,no,good,not sure,lower middle,no,no,no,confused,8,no,no,no,yes,no,yes,no,no,none,no
+yes,female,21,dhaka,student,no,good,average,upper middle,no,no,no,confused,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,upper middle,no,no,no,no,6,no,no,no,no,no,no,yes,yes,mind,yes
+no,male,21,sylhet,student,no,satisfactory,average,upper middle,no,no,no,yes,8,no,no,confused,no,no,no,no,no,none,no
+no,male,21,dhaka,student,no,excellent,good,lower,no,yes,yes,yes,10,no,no,yes,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,confused,7,no,no,no,yes,no,no,no,yes,mind,yes
+yes,female,21,sylhet,student,no,not sure,bad,lower middle,no,yes,confused,confused,3,no,no,confused,yes,no,no,no,no,none,no
+no,female,26,sylhet,student,no,good,good,upper middle,no,no,no,no,2,no,yes,no,yes,no,no,no,no,none,no
+no,male,21,khulna,student,no,satisfactory,average,lower middle,yes,yes,confused,no,8,no,no,yes,yes,yes,no,no,yes,friend,yes
+no,male,21,khulna,student,no,satisfactory,average,lower middle,no,yes,confused,yes,5,no,no,yes,yes,no,yes,no,no,none,no
+no,male,21,khulna,student,no,good,good,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,none,no
+no,male,21,khulna,student,no,satisfactory,good,upper middle,no,no,confused,no,7,no,no,no,no,yes,yes,no,yes,friend,yes
+yes,male,21,tangail,student,no,good,average,lower middle,no,no,no,no,8,no,no,no,no,no,no,no,no,none,no
+yes,male,21,demra,student,no,not sure,average,upper middle,no,no,yes,yes,7,no,no,no,no,no,no,no,yes,none,no
+no,male,21,dhanmondi,student,no,satisfactory,average,upper,no,yes,yes,no,5,no,no,no,no,no,no,no,yes,friend,no
+yes,female,26,dhanmondi,student,no,poor,not sure,upper,no,no,no,yes,5,no,no,confused,yes,no,no,no,yes,friend,no
+yes,male,26,dhaka,student,no,not sure,average,upper middle,no,no,no,no,8,no,no,confused,yes,no,no,no,yes,friend,no
+yes,male,66,dhaka,private job,yes,poor,not sure,upper middle,no,no,confused,yes,5,yes,yes,yes,yes,yes,no,no,yes,friend,yes
+no,male,21,dhaka,student,no,good,average,lower middle,no,no,confused,no,7,no,no,confused,no,no,no,no,yes,mind,no
+yes,male,46,dhaka,business,yes,satisfactory,average,upper,no,no,confused,yes,3,no,no,yes,yes,yes,yes,no,yes,mind,yes
+yes,male,31,faridpur,private job,yes,good,good,upper middle,no,no,yes,yes,5,yes,no,yes,no,yes,yes,no,yes,family problem,yes
+yes,male,41,dhaka,driver,no,poor,bad,upper,no,yes,no,yes,3,no,no,yes,no,no,yes,no,yes,friend,yes
+no,male,31,thakurgaon,student,yes,good,average,upper middle,no,yes,confused,yes,6,no,no,yes,yes,no,no,no,yes,friend,yes
+yes,male,56,dhaka,business,no,poor,bad,upper middle,no,yes,yes,yes,NaN,no,no,yes,no,no,no,no,yes,mind,yes
+yes,male,50,jamalpur,business,yes,excellent,good,upper middle,no,no,yes,no,7,no,no,yes,no,no,yes,no,no,business and having money,yes
+yes,male,31,manikganj,student,no,satisfactory,average,upper middle,no,no,no,no,5,no,no,yes,yes,no,yes,no,yes,friend,yes
+no,male,16,dhaka,student,no,excellent,good,upper middle,no,no,yes,no,7,no,no,no,no,yes,no,no,no,mind,yes
+yes,male,21,rajshahi,student,yes,unsatisfactory,average,upper middle,yes,no,confused,yes,4,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,business,yes,good,average,upper middle,no,yes,no,no,6,no,no,yes,no,no,yes,no,yes,friend,yes
+no,male,31,nauga,student,yes,poor,bad,upper middle,no,no,no,yes,4,no,no,yes,no,no,no,no,no,mind,yes
+yes,male,16,jessore,student,no,excellent,good,upper,no,yes,no,no,8,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,21,rajbari,student,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,no,yes,yes,no,yes,friend,yes
+yes,male,50,gazipur,business,no,good,average,lower middle,no,no,no,confused,5,no,no,yes,no,yes,no,no,yes,friend,yes
+yes,male,21,bogura,student,yes,poor,bad,lower middle,no,no,yes,yes,4,no,no,yes,yes,no,yes,no,yes,friend,yes
+yes,male,31,cumilla,business,no,excellent,good,upper middle,no,no,no,no,6,no,no,yes,no,no,yes,no,no,mind,yes
+yes,male,41,barisal,business,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,doctor,yes,good,average,upper middle,no,no,no,no,5,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,private job,no,good,average,upper middle,no,yes,no,yes,8,yes,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,yes,satisfactory,average,upper middle,no,yes,yes,yes,5,yes,no,no,yes,yes,yes,no,yes,friend,yes
+yes,male,26,dhaka,student,no,excellent,good,upper,no,yes,no,yes,7,no,no,no,yes,yes,no,no,yes,mind,yes
+yes,male,26,dhaka,student,no,poor,bad,upper middle,no,yes,yes,yes,4,no,no,yes,yes,yes,yes,yes,yes,friend,yes
+yes,male,36,dhaka,business,no,good,good,upper,no,no,no,yes,10,no,no,no,yes,no,no,no,no,mind,yes
+yes,male,36,narayanganj,business,no,good,good,upper middle,no,no,no,no,7,yes,no,no,no,no,no,no,no,mind,yes
+yes,male,31,dhaka,business,no,good,good,upper middle,no,no,no,no,9,no,no,no,yes,no,no,no,no,none,no
+yes,male,31,dhaka,freelancer,yes,good,bad,upper middle,no,no,yes,no,3,no,no,no,yes,yes,yes,yes,yes,mind,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,NaN,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,26,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,8,no,no,no,yes,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,excellent,good,upper middle,no,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,no,5,no,no,no,yes,yes,no,no,no,none,no
+no,male,21,sylhet,student,no,not sure,bad,lower middle,no,no,no,no,5,no,no,yes,no,no,yes,no,no,none,no
+no,male,26,sylhet,student,no,good,good,lower middle,no,yes,yes,no,7,no,no,yes,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+yes,male,64,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,70,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,NaN,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,16,dhaka,student,no,excellent,good,upper middle,no,no,yes,no,7,no,no,no,no,yes,no,no,no,mind,yes
+yes,male,21,rajshahi,student,yes,unsatisfactory,average,upper middle,yes,no,confused,yes,4,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,business,yes,good,average,upper middle,no,yes,no,no,6,no,no,yes,no,no,yes,no,yes,friend,yes
+no,male,31,nauga,student,yes,poor,bad,upper middle,no,no,no,yes,4,no,no,yes,no,no,no,no,no,mind,yes
+yes,male,16,jessore,student,no,excellent,good,upper,no,yes,no,no,8,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,21,rajbari,student,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,no,yes,yes,no,yes,friend,yes
+yes,male,50,gazipur,business,no,good,average,lower middle,no,no,no,confused,5,no,no,yes,no,yes,no,no,yes,friend,yes
+yes,male,21,bogura,student,yes,poor,bad,lower middle,no,no,yes,yes,4,no,no,yes,yes,no,yes,no,yes,friend,yes
+yes,male,31,cumilla,business,no,excellent,good,upper middle,no,no,no,no,6,no,no,yes,no,no,yes,no,no,mind,yes
+yes,male,41,barisal,business,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,doctor,yes,good,average,upper middle,no,no,no,no,5,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,private job,no,good,average,upper middle,no,yes,no,yes,8,yes,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,yes,satisfactory,average,upper middle,no,yes,yes,yes,5,yes,no,no,yes,yes,yes,no,yes,friend,yes
+yes,male,26,dhaka,student,no,excellent,good,upper,no,yes,no,yes,7,no,no,no,yes,yes,no,no,yes,mind,yes
+yes,male,26,dhaka,student,no,poor,bad,upper middle,no,yes,yes,yes,4,no,no,yes,yes,yes,yes,yes,yes,friend,yes
+yes,male,36,dhaka,business,no,good,good,upper,no,no,no,yes,10,no,no,no,yes,no,no,no,no,mind,yes
+yes,male,36,narayanganj,business,no,good,good,upper middle,no,no,no,no,7,yes,no,no,no,no,no,no,no,mind,yes
+yes,male,31,dhaka,business,no,good,good,upper middle,no,no,no,no,9,no,no,no,yes,no,no,no,no,none,no
+yes,male,31,dhaka,freelancer,yes,good,bad,upper middle,no,no,yes,no,3,no,no,no,yes,yes,yes,yes,yes,mind,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,NaN,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,26,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,8,no,no,no,yes,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,excellent,good,upper middle,no,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,no,5,no,no,no,yes,yes,no,no,no,none,no
+no,male,21,sylhet,student,no,not sure,bad,lower middle,no,no,no,no,5,no,no,yes,no,no,yes,no,no,none,no
+no,male,26,sylhet,student,no,good,good,lower middle,no,yes,yes,no,7,no,no,yes,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,16,dhaka,student,no,excellent,good,upper middle,no,no,yes,no,7,no,no,no,no,yes,no,no,no,mind,yes
+yes,male,21,rajshahi,student,yes,unsatisfactory,average,upper middle,yes,no,confused,yes,4,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,business,yes,good,average,upper middle,no,yes,no,no,6,no,no,yes,no,no,yes,no,yes,friend,yes
+no,male,31,nauga,student,yes,poor,bad,upper middle,no,no,no,yes,4,no,no,yes,no,no,no,no,no,mind,yes
+yes,male,16,jessore,student,no,excellent,good,upper,no,yes,no,no,4,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,21,rajbari,student,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,no,yes,yes,no,yes,friend,yes
+yes,male,50,gazipur,business,no,good,average,lower middle,no,no,no,confused,5,no,no,yes,no,yes,no,no,yes,friend,yes
+yes,male,21,bogura,student,yes,poor,bad,lower middle,no,no,yes,yes,4,no,no,yes,yes,no,yes,no,yes,friend,yes
+yes,male,31,cumilla,business,no,excellent,good,upper middle,no,no,no,no,6,no,no,yes,no,no,yes,no,no,mind,yes
+yes,male,41,barisal,business,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,doctor,yes,good,average,upper middle,no,no,no,no,5,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,private job,no,good,average,upper middle,no,yes,no,yes,8,yes,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,yes,satisfactory,average,upper middle,no,yes,yes,yes,5,yes,no,no,yes,yes,yes,no,yes,friend,yes
+yes,male,26,dhaka,student,no,excellent,good,upper,no,yes,no,yes,7,no,no,no,yes,yes,no,no,yes,mind,yes
+yes,male,26,dhaka,student,no,poor,bad,upper middle,no,yes,yes,yes,4,no,no,yes,yes,yes,yes,yes,yes,friend,yes
+yes,male,36,dhaka,business,no,good,good,upper,no,no,no,yes,10,no,no,no,yes,no,no,no,no,mind,yes
+yes,male,36,narayanganj,business,no,good,good,upper middle,no,no,no,no,NaN,yes,no,no,no,no,no,no,no,mind,yes
+yes,male,31,dhaka,business,no,good,good,upper middle,no,no,no,no,9,no,no,no,yes,no,no,no,no,none,no
+yes,male,31,dhaka,freelancer,yes,good,bad,upper middle,no,no,yes,no,3,no,no,no,yes,yes,yes,yes,yes,mind,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,26,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,8,no,no,no,yes,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,excellent,good,upper middle,no,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,no,5,no,no,no,yes,yes,no,no,no,none,no
+no,male,16,dhaka,student,no,excellent,good,upper middle,no,no,yes,no,7,no,no,no,no,yes,no,no,no,mind,yes
+yes,male,21,rajshahi,student,yes,unsatisfactory,average,upper middle,yes,no,confused,yes,4,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,business,yes,good,average,upper middle,no,yes,no,no,6,no,no,yes,no,no,yes,no,yes,friend,yes
+no,male,31,nauga,student,yes,poor,bad,upper middle,no,no,no,yes,4,no,no,yes,no,no,no,no,no,mind,yes
+yes,male,16,jessore,student,no,excellent,good,upper,no,yes,no,no,8,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,21,rajbari,student,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,no,yes,yes,no,yes,friend,yes
+yes,male,50,gazipur,business,no,good,average,lower middle,no,no,no,confused,5,no,no,yes,no,yes,no,no,yes,friend,yes
+yes,male,21,bogura,student,yes,poor,bad,lower middle,no,no,yes,yes,4,no,no,yes,yes,no,yes,no,yes,friend,yes
+yes,male,31,cumilla,business,no,excellent,good,upper middle,no,no,no,no,6,no,no,yes,no,no,yes,no,no,mind,yes
+yes,male,51,barisal,business,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,doctor,yes,good,average,upper middle,no,no,no,no,5,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,private job,no,good,average,upper middle,no,yes,no,yes,8,yes,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,yes,satisfactory,average,upper middle,no,yes,yes,yes,5,yes,no,no,yes,yes,yes,no,yes,friend,yes
+yes,male,26,dhaka,student,no,excellent,good,upper,no,yes,no,yes,7,no,no,no,yes,yes,no,no,yes,mind,yes
+yes,male,26,dhaka,student,no,poor,bad,upper middle,no,yes,yes,yes,4,no,no,yes,yes,yes,yes,yes,yes,friend,yes
+yes,male,36,dhaka,business,no,good,good,upper,no,no,no,yes,10,no,no,no,yes,no,no,no,no,mind,yes
+yes,male,36,narayanganj,business,no,good,good,upper middle,no,no,no,no,7,yes,no,no,no,no,no,no,no,mind,yes
+yes,male,31,dhaka,business,no,good,good,upper middle,no,no,no,no,9,no,no,no,yes,no,no,no,no,none,no
+yes,male,31,dhaka,freelancer,yes,good,bad,upper middle,no,no,yes,no,3,no,no,no,yes,yes,yes,yes,yes,mind,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,26,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,8,no,no,no,yes,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,excellent,good,upper middle,no,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,no,5,no,no,no,yes,yes,no,no,no,none,no
+no,male,21,sylhet,student,no,not sure,bad,lower middle,no,no,no,no,5,no,no,yes,no,no,yes,no,no,none,no
+no,male,26,sylhet,student,no,good,good,lower middle,no,yes,yes,no,7,no,no,yes,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,NaN,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,16,dhaka,student,no,excellent,good,upper middle,no,no,yes,no,7,no,no,no,no,yes,no,no,no,mind,yes
+yes,male,21,rajshahi,student,yes,unsatisfactory,average,upper middle,yes,no,confused,yes,4,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,business,yes,good,average,upper middle,no,yes,no,no,6,no,no,yes,no,no,yes,no,yes,friend,yes
+no,male,31,nauga,student,yes,poor,bad,upper middle,no,no,no,yes,4,no,no,yes,no,no,no,no,no,mind,yes
+yes,male,16,jessore,student,no,excellent,good,upper,no,yes,no,no,8,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,21,rajbari,student,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,no,yes,yes,no,yes,friend,yes
+yes,male,50,gazipur,business,no,good,average,lower middle,no,no,no,confused,5,no,no,yes,no,yes,no,no,yes,friend,yes
+yes,male,21,bogura,student,yes,poor,bad,lower middle,no,no,yes,yes,4,no,no,yes,yes,no,yes,no,yes,friend,yes
+yes,male,31,cumilla,business,no,excellent,good,upper middle,no,no,no,no,6,no,no,yes,no,no,yes,no,no,mind,yes
+yes,male,41,barisal,business,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,doctor,yes,good,average,upper middle,no,no,no,no,5,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,private job,no,good,average,upper middle,no,yes,no,yes,8,yes,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,yes,satisfactory,average,upper middle,no,yes,yes,yes,5,yes,no,no,yes,yes,yes,no,yes,friend,yes
+yes,male,26,dhaka,student,no,excellent,good,upper,no,yes,no,yes,7,no,no,no,yes,yes,no,no,yes,mind,yes
+yes,male,26,dhaka,student,no,poor,bad,upper middle,no,yes,yes,yes,4,no,no,yes,yes,yes,yes,yes,yes,friend,yes
+yes,male,36,dhaka,business,no,good,good,upper,no,no,no,yes,10,no,no,no,yes,no,no,no,no,mind,yes
+yes,male,36,narayanganj,business,no,good,good,upper middle,no,no,no,no,7,yes,no,no,no,no,no,no,no,mind,yes
+yes,male,31,dhaka,business,no,good,good,upper middle,no,no,no,no,9,no,no,no,yes,no,no,no,no,none,no
+yes,male,31,dhaka,freelancer,yes,good,bad,upper middle,no,no,yes,no,3,no,no,no,yes,yes,yes,yes,yes,mind,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,5,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,NaN,no,no,no,no,no,no,no,no,friend,yes
+no,male,26,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,8,no,no,no,yes,no,no,no,no,none,no
+no,female,21,dhaka,student,no,excellent,good,upper middle,no,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,no,5,no,no,no,yes,yes,no,no,no,none,no
+no,male,21,sylhet,student,no,not sure,bad,lower middle,no,no,no,no,5,no,no,yes,no,no,yes,no,no,none,no
+no,male,26,sylhet,student,no,good,good,lower middle,no,yes,yes,no,7,no,no,yes,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+no,male,31,nauga,student,yes,poor,bad,upper middle,no,no,no,yes,4,no,no,yes,no,no,no,no,no,mind,yes
+yes,male,16,jessore,student,no,excellent,good,upper,no,yes,no,no,8,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,21,rajbari,student,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,no,yes,yes,no,yes,friend,yes
+yes,male,50,gazipur,business,no,good,average,lower middle,no,no,no,confused,5,no,no,yes,no,yes,no,no,yes,friend,yes
+yes,male,21,bogura,student,yes,poor,bad,lower middle,no,no,yes,yes,4,no,no,yes,yes,no,yes,no,yes,friend,yes
+yes,male,31,cumilla,business,no,excellent,good,upper middle,no,no,no,no,6,no,no,yes,no,no,yes,no,no,mind,yes
+yes,male,41,barisal,business,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,42,dhaka,doctor,yes,good,average,upper middle,no,no,no,no,5,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,private job,no,good,average,upper middle,no,yes,no,yes,8,yes,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,yes,satisfactory,average,upper middle,no,yes,yes,yes,5,yes,no,no,yes,yes,yes,no,yes,friend,no
+yes,male,26,dhaka,student,no,excellent,good,upper,no,yes,no,yes,7,no,no,no,yes,yes,no,no,yes,mind,yes
+no,male,21,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,8,no,no,no,yes,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,excellent,good,upper middle,no,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,no,5,no,no,no,yes,yes,no,no,no,none,no
+no,male,16,dhaka,student,no,excellent,good,upper middle,no,no,yes,no,7,no,no,no,no,yes,no,no,no,mind,yes
+yes,male,21,rajshahi,student,yes,unsatisfactory,average,upper middle,yes,no,confused,yes,4,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,yes,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,21,comilla,student,no,good,not sure,lower middle,no,no,no,confused,8,no,no,no,yes,no,yes,no,no,none,no
+yes,female,21,dhaka,student,no,good,average,upper middle,no,no,no,confused,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,upper middle,no,no,no,no,6,no,no,no,no,no,no,yes,yes,mind,yes
+no,male,21,sylhet,student,no,satisfactory,average,upper middle,no,no,no,yes,8,no,no,confused,no,no,no,no,no,none,no
+no,male,21,dhaka,student,no,excellent,good,lower,no,yes,yes,yes,10,no,no,yes,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,confused,7,no,no,no,yes,no,no,no,yes,mind,yes
+yes,male,36,dhaka,business,no,good,good,upper middle,no,no,no,no,9,no,no,no,yes,no,no,no,no,none,no
+yes,male,31,dhaka,freelancer,yes,good,bad,upper middle,no,no,yes,no,3,no,no,no,yes,yes,yes,yes,yes,mind,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+no,male,31,nauga,student,yes,poor,bad,upper middle,no,no,no,yes,4,no,no,yes,no,no,no,no,no,mind,yes
+yes,male,16,jessore,student,no,excellent,good,upper,no,yes,no,no,8,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,21,rajbari,student,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,no,yes,yes,no,yes,friend,yes
+yes,male,50,gazipur,business,no,good,average,lower middle,no,no,no,confused,5,no,no,yes,no,yes,no,no,yes,friend,yes
+yes,male,21,bogura,student,yes,poor,bad,lower middle,no,no,yes,yes,4,no,no,yes,yes,no,yes,no,yes,friend,yes
+yes,male,31,cumilla,business,no,excellent,good,upper middle,no,no,no,no,6,no,no,yes,no,no,yes,no,no,mind,yes
+yes,male,41,barisal,business,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,doctor,yes,good,average,upper middle,no,no,no,no,5,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,private job,no,good,average,upper middle,no,yes,no,yes,8,yes,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,yes,satisfactory,average,upper middle,no,yes,yes,yes,5,yes,no,no,yes,yes,yes,no,yes,none,no
+yes,male,26,dhaka,student,no,excellent,good,upper,no,yes,no,yes,7,no,no,no,yes,yes,no,no,yes,mind,yes
+yes,male,41,barisal,business,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,doctor,yes,good,average,upper middle,no,no,no,no,5,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,private job,no,good,average,upper middle,no,yes,no,yes,8,yes,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,yes,satisfactory,average,upper middle,no,yes,yes,yes,5,yes,no,no,yes,yes,yes,no,yes,friend,yes
+yes,male,26,dhaka,student,no,excellent,good,upper,no,yes,no,yes,7,no,no,no,yes,yes,no,no,yes,mind,yes
+yes,male,26,dhaka,student,no,poor,bad,upper middle,no,yes,yes,yes,4,no,no,yes,yes,yes,yes,yes,yes,friend,yes
+yes,male,36,dhaka,business,no,good,good,upper,no,no,no,yes,10,no,no,no,yes,no,no,no,no,mind,yes
+yes,male,36,narayanganj,business,no,good,good,upper middle,no,no,no,no,7,yes,no,no,no,no,no,no,no,mind,yes
+yes,male,31,dhaka,business,no,good,good,upper middle,no,no,no,no,9,no,no,no,yes,no,no,no,no,none,no
+yes,male,31,dhaka,freelancer,yes,good,bad,upper middle,no,no,yes,no,3,no,no,no,yes,yes,yes,yes,yes,mind,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,26,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,NaN,no,no,no,yes,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,excellent,good,upper middle,no,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,no,5,no,no,no,yes,yes,no,no,no,none,no
+no,male,21,sylhet,student,no,not sure,bad,lower middle,no,no,no,no,5,no,no,yes,no,no,yes,no,no,none,no
+no,male,26,sylhet,student,no,good,good,lower middle,no,yes,yes,no,7,no,no,yes,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,NaN,no,no,no,no,no,no,no,no,friend,yes
+no,male,26,dhaka,student,no,satisfactory,good,upper middle,no,no,no,yes,8,no,no,no,yes,no,no,no,no,none,no
+yes,female,21,dhaka,student,no,excellent,good,upper middle,no,no,no,yes,7,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,no,5,no,no,no,yes,yes,no,no,no,none,no
+no,male,31,nauga,student,yes,poor,bad,upper middle,no,no,no,yes,4,no,no,yes,no,no,no,no,no,business and having money,yes
+yes,male,16,jessore,student,no,excellent,good,upper,no,yes,no,no,8,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,21,rajbari,student,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,no,yes,yes,no,yes,friend,yes
+yes,male,50,gazipur,business,no,good,average,lower middle,no,no,no,confused,5,no,no,yes,no,yes,no,no,yes,friend,yes
+yes,male,21,bogura,student,yes,poor,bad,lower middle,no,no,yes,yes,4,no,no,yes,yes,no,yes,no,yes,friend,yes
+yes,male,31,cumilla,business,no,excellent,good,upper middle,no,no,no,no,6,no,no,yes,no,no,yes,no,no,mind,yes
+yes,male,41,barisal,business,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,yes,yes,yes,no,yes,friend,yes
+yes,male,31,dhaka,doctor,yes,good,average,upper middle,no,no,no,no,NaN,no,no,no,no,no,no,no,yes,friend,yes
+yes,male,36,dhaka,private job,no,good,average,upper middle,no,yes,no,yes,8,yes,no,no,no,no,no,no,no,none,no
+yes,female,21,dhaka,student,yes,satisfactory,average,upper middle,no,yes,yes,yes,5,yes,no,no,yes,yes,yes,no,yes,friend,yes
+yes,male,26,dhaka,student,no,excellent,good,upper,no,yes,no,yes,7,no,no,no,yes,yes,no,no,yes,mind,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+no,male,31,nauga,student,yes,poor,bad,upper middle,no,no,no,yes,4,no,no,yes,no,no,no,no,no,mind,yes
+yes,male,16,jessore,student,no,excellent,good,upper,no,yes,no,no,8,no,no,no,no,no,no,no,no,none,no
+yes,male,21,rajbari,student,no,good,average,upper middle,no,no,no,yes,5,no,no,yes,no,yes,yes,no,yes,friend,yes
+yes,male,50,gazipur,business,no,good,average,lower middle,no,no,no,confused,5,no,no,yes,no,yes,no,no,yes,friend,yes
+yes,male,21,bogura,student,yes,poor,bad,lower middle,no,no,yes,yes,4,no,no,yes,yes,no,yes,no,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,friend,yes
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,10,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,yes,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+no,male,21,comilla,student,no,good,not sure,lower middle,no,no,no,confused,8,no,no,no,yes,no,yes,no,no,none,no
+yes,female,21,dhaka,student,no,good,average,upper middle,no,no,no,confused,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,upper middle,no,no,no,no,6,no,no,no,no,no,no,yes,yes,mind,yes
+no,male,21,sylhet,student,no,satisfactory,average,upper middle,no,no,no,yes,8,no,no,confused,no,no,no,no,no,none,no
+no,male,21,dhaka,student,no,excellent,good,lower,no,yes,yes,yes,10,no,no,yes,no,no,no,no,no,none,no
+no,male,21,sylhet,student,no,good,good,lower middle,no,no,no,confused,7,no,no,no,yes,no,no,no,yes,mind,yes
+yes,female,21,sylhet,student,no,not sure,bad,lower middle,no,yes,confused,confused,3,no,no,confused,yes,no,no,no,no,none,no
+no,female,26,sylhet,student,no,good,good,upper middle,no,no,no,no,2,no,yes,no,yes,no,no,no,no,none,no
+no,male,21,khulna,student,no,satisfactory,average,lower middle,yes,yes,confused,no,8,no,no,yes,yes,yes,no,no,yes,friend,yes
+no,male,21,khulna,student,no,satisfactory,average,lower middle,no,yes,confused,yes,5,no,no,yes,yes,no,yes,no,no,none,no
+no,male,21,khulna,student,no,good,good,upper middle,no,no,no,no,NaN,no,no,no,no,no,no,no,yes,none,no
+no,male,21,khulna,student,no,satisfactory,good,upper middle,no,no,confused,no,7,no,no,no,no,yes,yes,no,yes,friend,yes
+yes,male,21,tangail,student,no,good,average,lower middle,no,no,no,no,5,no,no,no,no,no,no,no,yes,none,no
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,male,21,dhaka,business,no,good,average,upper middle,no,yes,no,no,10,yes,no,yes,no,yes,yes,yes,yes,none,no
+yes,male,21,b-baria,student,yes,unsatisfactory,average,upper middle,no,yes,yes,yes,7,no,no,no,yes,yes,yes,yes,yes,friend,yes
+yes,male,31,chottogram,business,yes,excellent,good,upper middle,no,no,no,no,7,no,no,no,no,no,no,no,no,mind,yes
+yes,male,36,dhaka,business,no,poor,average,lower middle,no,yes,yes,yes,2,no,no,no,no,yes,no,yes,yes,friend,yes
+yes,female,21,dhaka,student,no,good,good,upper,no,no,no,no,NaN,no,no,no,no,no,no,no,no,none,no
+yes,female,21,kushtia,student,no,good,good,lower middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,26,sylhet,student,yes,satisfactory,bad,lower middle,no,no,no,yes,5,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,no,none,no
+no,male,21,jessore,student,no,satisfactory,average,upper middle,no,no,no,yes,6,no,no,no,no,no,no,no,yes,none,no
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,8,no,no,no,no,no,no,no,no,friend,yes
+yes,male,21,sirajgonj,student,yes,good,average,upper middle,no,no,no,no,NaN,no,no,no,no,no,no,no,no,friend,yes

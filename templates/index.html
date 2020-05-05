@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Drug API</title>
+  <style>
+	body{
+	
+}
+#box1{
+	background: black;
+	width: 1200px;
+	height: 80px;
+	padding: 10px 10px;
+	margin: auto;	
+	border: 7px solid #9AE021;
+	color: white;
+	font-family: Arial;
+	word-spacing: 10px;
+}
+#title{
+	text-align: center;
+}
+#box2{
+	width: 1200px;
+	height: 80px;
+	margin: 30px auto;
+}
+#tag{
+	background: #F8F87D;
+	width: 500px;
+	height: 80px;
+	float: left;
+	color: black;
+	font-family: Monospace;
+	text-align: center;
+	font-size: 17px;
+	font-weight:600;
+     
+}
+#menu{
+	width: 650px;
+	height: 80px;
+	float: right;
+	overflow: hidden;
+}
+#menu a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 20px;
+  border: 2px solid black;
+  margin-right: 7px;
+  margin-top: 15px;
+  background: #52F2BD;
+  color: black;
+  font-weight: 600;
+}
+#menu a:hover {
+  background-color: #FA8072;
+  color: white;
+}
+#Home{
+	width: 1200px;
+	height: 400px;
+	margin: 15px auto;
+	border: 3px solid #048056;
+	color: #EA216A;
+	font-size: 27px;
+	padding: 10px 15px;
+}
+#box3{
+	width: 1200px;
+	height: 1500px;
+	margin: 15px auto;
+	background: #FEC29B;
+	padding-top: 15px;
+	padding-left: 30px;
+	font-size: 20px;
+
+}
+.lbl{
+	font-weight:600;
+    font-size: 21px;
+}
+.btnred{
+	background: #0A2F66;
+	color: white;
+	padding: 10px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 17px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+#Output{
+	background: #04765E;
+	color: white;
+	font-size: 22px;
+	width: 700px;
+	height: 120px;
+	margin: auto;
+}
+
+#box4{
+	width: 1190px;
+	height: 400px;
+	margin: 15px auto;
+	border: 3px solid #0FA046;
+	color: black;
+	font-size: 21px;
+	padding: 10px 15px;
+}
+
+#box5{
+	width: 1200px;
+	height: 300px;
+	margin: 15px auto;
+	background: #87F5F5;
+	color: black;
+	font-size: 21px;
+	padding: 10px 15px;
+
+}
+
+#box6{
+	width: 1200px;
+	height: 680px;
+	margin: 15px auto;
+	color: black;
+	font-size: 21px;
+}
+
+#rdteam{
+	width: 1200px;
+	height: 300px;
+	color: #0FA046;
+	font-size: 21px;
+	padding: 10px 10px;
+}
+
+#perinfo{
+	width: 360px;
+	height: 210px;
+	float: left;
+	margin-right: 19px;
+	padding-left:8px;
+	border: 3px solid blue;
+}
+
+#supervise{
+	width: 1200px;
+	height: 300px;
+	color: black;
+	font-size: 21px;
+	padding: 10px 10px;
+	margin: 15px auto;
+}
+
+#superinfo1{
+	width: 500px;
+	height: 210px;
+	float: left;
+	margin-right: 19px;
+	padding-left:15px;
+	border: 3px solid #FA8072;
+}
+#superinfo2{
+	width: 500px;
+	height: 210px;
+	float: right;
+	margin-right: 19px;
+	padding-left:15px;
+	border: 3px solid #FA8072;
+}
+
+#copyright{
+	width: 1200px;
+	height: 80px;
+	background: black;
+	color: white;
+	padding-top: 10px;
+	margin: 15px auto;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#copyright a{
+	color: #5DADE2 ;
+}
+  
+  </style>
+  
+</head>
+
+<body>
+<div id="box1">
+	<div id="title"><h1>Drugs and Alcohol Addiction Prediction System</h1></div>
+</div>
+
+<div id="box2">
+	<div id="tag"><p>It is a community awareness and non-profit project.</p></div>
+	
+	<div id="menu">
+	<a href="#Home">About us</a>
+	<a href="#box3">Prediction Test</a>
+    <a href="#box4">Boostup</a>
+    <a href="#box5">Hospital</a>
+	<a href="#box6">Contact us </a>
+	</div>
+</div>
+
+<div id="Home">
+	<p>Drug addicts are responsible for the rapid destruction of any society today. The present youth society is rapidly becoming addicted to drugs and they are engaged in various criminal activities. Due to the easy availability of drugs and carelessness, many people are unknowingly becoming addicted to drugs. The horrors of which are slowly being observed in the society. This system allows you to determine if people around you are addicted to drugs. If he is addicted, beware of him and help him to stay away from drugs. <b>Thank you. </b></p>
+	
+</div>
+
+<div id="box3">
+	<div class="login">
+	<h2><center><i><u>Drug and alcohol prediction test </u></i> </center></h2>
+
+
+    <form action="{{ url_for('predict')}}"method="post">
+		
+		<label class="lbl">Family Live:</label>
+    	<input type="radio" id="no" name="family live" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="family live" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+		
+		<label class="lbl">Gender:</label>
+    	<input type="radio" id="male" name="gender" value="0"/> 
+		<label for="male">Male</label>
+		<input type="radio" id="female" name="gender" value="1"/> 
+		<label for="female">Female</label>
+		<input type="radio" id="notsay" name="gender" value="2"/> 
+		<label for="notsay">Prefer not to say</label>
+		<br><br>
+		
+		<label for="age" class="lbl">Age:</label>
+    	<input type="text" id="age" name="age" placeholder="Only years"/> 
+		<br><br>
+		
+		<label class="lbl">Address:</label>
+    	<input type="radio" id="dhaka" name="address" value="0"/> 
+		<label for="dhaka">Dhaka</label>
+		<input type="radio" id="jamalpur" name="address" value="23"/> 
+		<label for="jamalpur">Jamalpur</label>
+		<input type="radio" id="Comilla" name="address" value="17"/> 
+		<label for="Comilla">Comilla</label>
+		<input type="radio" id="Chottogram" name="address" value="3"/> 
+		<label for="Chottogram">Chottogram</label>
+		<input type="radio" id="Jessore" name="address" value="2"/> 
+		<label for="Jessore">Jessore</label>
+		<br><br>
+
+		<label class="lbl">Profession:</label>
+    	<input type="radio" id="Student" name="profession" value="0"/> 
+		<label for="Student">Student</label>
+		<input type="radio" id="Business" name="profession" value="1"/> 
+		<label for="Business">Business</label>
+		<input type="radio" id="Govtjob" name="profession" value="2"/> 
+		<label for="Govtjob">Govt. Job</label>
+		<input type="radio" id="Privatejob" name="profession" value="3"/> 
+		<label for="Privatejob">Private Job</label>
+		<input type="radio" id="Doctor" name="profession" value="4"/> 
+		<label for="Doctor">Doctor</label>
+		<input type="radio" id="Teacher" name="profession" value="5"/> 
+		<label for="Teacher">Teacher</label>
+		<input type="radio" id="Engineer" name="profession" value="6"/> 
+		<label for="Engineer">Engineer</label>
+		<input type="radio" id="Driver" name="profession" value="7"/> 
+		<label for="Driver">Driver</label>
+		<br><br>
+
+		<label class="lbl">Distance with family and friends:</label>
+    	<input type="radio" id="no" name="distance" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="distance" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Efficiency at workplace:</label>
+    	<input type="radio" id="Excellent" name="efficiency" value="0"/> 
+		<label for="Excellent">Excellent</label>
+		<input type="radio" id="Good" name="efficiency" value="1"/> 
+		<label for="Good">Good</label>
+		<input type="radio" id="satisfactory" name="efficiency" value="2"/> 
+		<label for="satisfactory">Satisfactory</label>
+		<input type="radio" id="Unsatisfactory" name="efficiency" value="3"/> 
+		<label for="Unsatisfactory">Unsatisfactory</label>
+		<input type="radio" id="Poor" name="efficiency" value="4"/> 
+		<label for="Poor">Poor</label>
+		<input type="radio" id="Notsure" name="efficiency" value="5"/> 
+		<label for="Notsure">Not sure</label>
+		<br><br>
+
+		<label class="lbl">Stress coping skill:</label>
+    	<input type="radio" id="Good" name="stress" value="0"/> 
+		<label for="Good">Good</label>
+		<input type="radio" id="Bad" name="stress" value="1"/> 
+		<label for="Bad">Bad</label>
+		<input type="radio" id="Average" name="stress" value="2"/> 
+		<label for="Average">Average</label>
+		<input type="radio" id="Notsure" name="stress" value="5"/> 
+		<label for="Notsure">Not sure</label>
+		<br><br>
+
+		<label class="lbl">Socioeconomic status:</label>
+    	<input type="radio" id="Upper" name="economic" value="0"/> 
+		<label for="Upper">Upper</label>
+		<input type="radio" id="Uppermiddle" name="economic" value="1"/> 
+		<label for="Uppermiddle">Upper middle</label>
+		<input type="radio" id="Lowermiddle" name="economic" value="2"/> 
+		<label for="Lowermiddle">Lower middle</label>
+		<input type="radio" id="Lower" name="economic" value="3"/> 
+		<label for="Lower">Lower</label>
+		<br><br>
+
+		<label class="lbl">Addicted or deals with drugs in home:</label>
+    	<input type="radio" id="no" name="addictionhome" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="addictionhome" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Experienced any trauma:</label>
+    	<input type="radio" id="no" name="trauma" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="trauma" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Relationship problem:</label>
+    	<input type="radio" id="no" name="relation" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="relation" value="1"/> 
+		<label for="yes">Yes</label>
+		<input type="radio" id="confused" name="relation" value="2"/> 
+		<label for="confused">Confused</label>
+		<br><br>
+
+		<label class="lbl">Spend time alone:</label>
+    	<input type="radio" id="no" name="alone" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="alone" value="1"/> 
+		<label for="yes">Yes</label>
+		<input type="radio" id="confused" name="alone" value="2"/> 
+		<label for="confused">Confused</label>
+		<br><br>
+
+		<label for="care" class="lbl">Care about yourself :</label>
+    	<input type="text" id="care" name="care" placeholder="out of 10, example:1,2,5,6,7,8,9"/> 
+		<br><br>
+
+		<label class="lbl">Lost your job:</label>
+    	<input type="radio" id="no" name="lostjob" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="lostjob" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Sexual harassment:</label>
+    	<input type="radio" id="no" name="sexual" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="sexual" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Lost interest in normal activities:</label>
+    	<input type="radio" id="no" name="interest" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="interest" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Odd sleeping pattern:</label>
+    	<input type="radio" id="no" name="sleep" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="sleep" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Spend extra time in outside at night:</label>
+    	<input type="radio" id="no" name="outsidenight" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="outsidenight" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Losing weight:</label>
+    	<input type="radio" id="no" name="weight" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="weight" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+	
+		<label class="lbl">Drug addiction is a solution:</label>
+    	<input type="radio" id="no" name="solution" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="solution" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Do you have addicted friend:</label>
+    	<input type="radio" id="no" name="addictedfriend" value="0"/> 
+		<label for="no">No</label>
+		<input type="radio" id="yes" name="addictedfriend" value="1"/> 
+		<label for="yes">Yes</label>
+		<br><br>
+
+		<label class="lbl">Reason behind addiction:</label>
+    	<input type="radio" id="mind" name="reason" value="0"/> 
+		<label for="mind">Curious mind</label>
+		<input type="radio" id="friend" name="reason" value="1"/> 
+		<label for="friend">With help of friend </label>
+		<input type="radio" id="familyprob" name="reason" value="2"/> 
+		<label for="familyprob">Family problem</label>
+		<input type="radio" id="none" name="reason" value="3"/> 
+		<label for="none">None</label>
+		<input type="radio" id="businessprob" name="reason" value="4"/> 
+		<label for="businessprob">Business problem and having money</label>
+		<br><br>
+
+        <button type="submit" class="btnred">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   <div id="Output"><h2><center>Result</center></h2>
+   {{ prediction_text }}
+   </div>
+
+ </div>
+</div>
+
+<div id="box4">
+    <p><h2><center><u>Some quotes, which teach to think about life</u></center></h2></p>
+	<p>Accept the challenges so that you can feel the exhilaration of victory.</p>
+	<p>Even if you have a terminal disease, you don't have to sit down and mope. Enjoy life and challenge the illness that you have.</p>
+	<p>The secret of life is enjoying the passage of time..</p>
+	<p>Live every day as if it were going to be your last; for one day you're sure to be right.</p>
+	<p>If you go around being afraid, you're never going to enjoy life. You have only one chance, so you've got to have fun..</p>
+	<p>We must be willing to get rid of the life we've planned, so as to have the life that is waiting for us..</p>
+</div>
+
+<div id="box5">
+	<p><h2><b>Hospital List </b></h2></p>
+	<p>
+	<ul>
+		<li>New Mukti Clinic</li>
+		<li>Brain and mind hospital</li>
+		<li>Phera Rehabilitation Center For Drug Addiction</li>
+		<li>Astha Addiction Treatment & Rehabilitation Centre</li>
+		<li>ALOK Addiction Management And Rehabilitation Center. </li>
+	</ul>
+	</p>
+</div>
+
+<div id="box6">
+	<div id="rdteam">
+	<p><h2><u><center>Research and Development Team </center></u></h2></p>
+	<div id="perinfo">
+	<b><h3> Name: Md. Ariful Islam Arif </h3></b> 
+	ID: 162-15-7871 <br>
+	Email: ariful15-7871@diu.edu.bd <br>
+	Dept. of CSE <br>
+	Daffodil International University. <br>
+	Contact: 01962476634. <br>
+	</div>
+	<div id="perinfo">
+	<b><h3> Name: Saiful Islam Sany </h3></b> 
+	ID: 162-15-7868 <br>
+	Email: saiful15-7868@diu.edu.bd <br>
+	Dept. of CSE <br>
+	Daffodil International University. <br>
+	Contact: 01515659549. <br>
+	</div>
+	<div id="perinfo">
+	<b><h3> Name: Faiza Islam Nahin </h3></b> 
+	ID: 162-15-7722 <br>
+	Email: faiza15-7722@diu.edu.bd <br>
+	Dept. of CSE <br>
+	Daffodil International University. <br>
+	Contact: 01785857810. <br>
+	</div>
+	
+	</div>
+	
+	<div id="supervise">
+		<p><h2><u><center>Project Supervisors </center></u></h2></p>
+		<div id="superinfo1">
+		<b><h2> Name: Md. Tarek Habib </h2></b> 
+		Assistant Professor <br>
+		Dept. of CSE <br>
+		Daffodil International University. <br>
+		Contact: 01709076951. <br>
+		</div>
+		<div id="superinfo2">
+		<b><h2> Name: Farah Sharmin </h2></b> 
+		Senior Lecturer   <br>
+		Dept. of CSE <br>
+		Daffodil International University. <br>
+		Contact: 01715232346. <br>
+		</div>
+	</div>
+</div>
+
+<div id="copyright">
+	<p><center>&copy; Copyright<a href="#box6">Team Serenity (DIU)</a></center></p>
+</div>
+
+</body>
+</html>
